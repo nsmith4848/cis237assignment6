@@ -3,7 +3,7 @@
 ## Due 04-27-2016
 
 ## Author
-
+Nic Smith
 ## Description
 
 You are to create a web application using ASP.NET MVC to manage our beverage database.
@@ -72,22 +72,22 @@ DatabaseName: Beverage + FirstInital + LastName
 
 ### Solution Requirements:
 
-* 4 Main pages: Home, Contact, About, and Beverages
-* Beverages must be augmented by any additional needed pages to perform CRUD
-* Master Layout page
-* Pages for user authentication and account setup
-* EntityFramework Model and Collection
-* Read functionality
-* Insert functionality
-* Update functionality
-* Delete functionality
-* Filter on the list of beverages that will filter the results on the page
-* Denied access to beverages page for non-logged in users.
+* 4 Main pages: Home, Contact, About, and Beverages Done
+* Beverages must be augmented by any additional needed pages to perform CRUD Done
+* Master Layout page Done
+* Pages for user authentication and account setup Done
+* EntityFramework Model and Collection Done
+* Read functionality Done
+* Insert functionality Done
+* Update functionality Done
+* Delete functionality Done
+* Filter on the list of beverages that will filter the results on the page Done
+* Denied access to beverages page for non-logged in users. Done
 
 ### Extra Credit
 You can get up to 40 assignment points of extra credit by doing the following:
 
-* Validate all information that is submitted to ensure it is valid. This includes Insert, Update, and Filtering of Beverages.
+* Validate all information that is submitted to ensure it is valid. This includes Insert, Update, and Filtering of Beverages. Done?
 * Use JavaScript / jQuery to handle getting to the edit page of a item in the list by setting a click listener on the table row for the item. (This would replace the edit link from scaffolding)
 * Use JavaScript / jQuery to pop up a confirmation delete message when deleting a beverage.
 * Ability to click on a table header and sort the list of items by that column. You must do at least 2 column headings.
@@ -115,7 +115,8 @@ browser and delete all your cookies. I'm sure only a few are
 the culprit, but I don't know which ones.
 
 ## Outside Resources Used
+cis237inclass6
 
 ## Known Problems, Issues, And/Or Errors in the Program
-
+Just not very much extra credit
 
